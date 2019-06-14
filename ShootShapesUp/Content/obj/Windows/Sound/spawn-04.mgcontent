@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Ahmed/Documents/Game for development CS3005/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-04.wav</SourceFile>
+  <SourceTime>2013-07-26T17:29:36+01:00</SourceTime>
+  <DestFile>C:/Users/Ahmed/Documents/Game for development CS3005/ShootShapesUp/ShootShapesUp/Content/bin/Windows/Sound/spawn-04.xnb</DestFile>
+  <DestTime>2018-12-07T18:57:51.9188405+00:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
